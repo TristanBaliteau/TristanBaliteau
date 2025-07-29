@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Tristan
 
-<!--
-**TristanBaliteau/TristanBaliteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Passionné de cybersécurité | 🎯 Objectif : poste junior en Suisse
 
-Here are some ideas to get you started:
+## 🔧 Compétences
+- 🐧 Linux / Bash / Hardening
+- 🐍 Python scripting (logs, scan, forensics)
+- 📡 Réseaux / Wireshark / Nmap
+- 🔐 CTFs & Bug bounty (TryHackMe / HackTheBox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projets utiles
+| [audit-linux](https://github.com/TristanBaliteau/aeScan) | Script de scan d'hôtes et de ports sur un réseau
+
+📫 Me contacter : `tristan.baliteau@proton.me`
