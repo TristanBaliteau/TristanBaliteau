@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Tristan
 
-<!--
-**TristanBaliteau/TristanBaliteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Specialized in Cybersecurity | 🔎 Focused on applied security, system programming, and network analysis  
+📍 Based in France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+## 🛠 Core Skills
+
+
+- 🐧 **Linux environments** — system hardening, Bash scripting, service auditing  
+- ⚙️ **Programming** — mainly in C (low-level tools, CLI utilities), Python (automation, parsing), and some Java  
+- 📡 **Networking & Protocols** — packet capture and analysis (Wireshark, tcpdump), scanning (Nmap)  
+- 🔐 **Offensive & Defensive Security** — CTFs, basic exploitation, log analysis, and threat detection logic
+
+
+---
+
+
+## 📂 Projects
+
+
+| Project | Description |
+|--------|-------------|
+| [aeScan](https://github.com/TristanBaliteau/aeScan) | Lightweight C-based scanner for network host and port discovery |
+
